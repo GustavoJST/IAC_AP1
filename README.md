@@ -5,3 +5,4 @@ AP1 de Introdução a Computação, sobre Git e Github.
 ### Gustavo Evaldt Justo
 ### Rafael Fernandes
 ### Ivonei Vinicios dos Santos Paz
+### Emily Lima
